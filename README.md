@@ -1,4 +1,4 @@
-# Web-Scraping-Blue-Collar-Jobs-in-Indeed
+# Web-Scraping-Blue-Collar-Jobs-from-Indeed
 
 •   Scraped and appended all the blue collar jobs in Ireland by industry to a .csv file.
 
